@@ -24,7 +24,7 @@ package cordova.plugins;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
-import android.hardware.Camera;
+import android.hardware.camera2;
 import android.os.Build;
 import android.util.Log;
 
